@@ -1,4 +1,4 @@
--finput-charset=ANSI -fexec-charset=utf-8
+
 //1.1 
 #include<iostream> 
 using namespace std;
