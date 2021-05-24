@@ -2,7 +2,6 @@
 #include<iostream> 
 using namespace std;
 
-
 void main()
 {
 	setlocale(LC_ALL, "Russian");
@@ -23,13 +22,11 @@ void main()
 	cout << "Введите нецелое число№2: ";
 	cin >> Var4;
 
-
 	cout << "Число = " << Var1 << endl << "Буква = " << Var2 << endl << "Нецелое число = " << Var3 << endl << "Нецелое число №2 = " << Var4 << endl;
 }
 1.2
 #include<iostream> 
 using namespace std;
-
 
 void main()
 {
@@ -46,7 +43,6 @@ void main()
 1.3
 #include<iostream> 
 using namespace std;
-
 
 void main()
 {
@@ -66,7 +62,6 @@ void main()
 #include<iostream> 
 using namespace std;
 
-
 void main()
 {
 	setlocale(LC_ALL, "Russian");
@@ -84,7 +79,6 @@ void main()
 #include<iostream> 
 using namespace std;
 
-
 void main()
 {
 	setlocale(LC_ALL, "Russian");
@@ -99,7 +93,6 @@ void main()
 #include<iostream> 
 #include<cmath>
 using namespace std;
-
 
 void main()
 {
@@ -120,7 +113,6 @@ void main()
 #include<cmath>
 using namespace std;
 
-
 void main()
 {
 	setlocale(LC_ALL, "Russian");
@@ -140,13 +132,11 @@ void main()
 #include<cmath>
 using namespace std;
 
-
 void main()
 {
 	setlocale(LC_ALL, "Russian");
 
 	float x; 
-	
 
 	cout << "Введите x: ";
 	cin >> x;
@@ -156,7 +146,6 @@ void main()
 1.9
 #include<iostream> 
 using namespace std;
-
 
 void main()
 {
@@ -169,7 +158,6 @@ void main()
 #include<iostream> 
 #include<cmath>
 using namespace std;
-
 
 void main()
 {
@@ -190,7 +178,6 @@ void main()
 #include<cmath>
 using namespace std;
 
-
 void main()
 {
 	setlocale(LC_ALL, "Russian");
@@ -204,7 +191,6 @@ void main()
 1.12
 #include<iostream> 
 using namespace std;
-
 
 void main()
 {
