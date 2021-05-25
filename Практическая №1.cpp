@@ -1,4 +1,4 @@
-1.1 
+//1.1 
 #include<iostream> 
 using namespace std;
 
@@ -24,7 +24,7 @@ void main()
 
 	cout << "Число = " << Var1 << endl << "Буква = " << Var2 << endl << "Нецелое число = " << Var3 << endl << "Нецелое число №2 = " << Var4 << endl;
 }
-1.2
+//1.2
 #include<iostream> 
 using namespace std;
 
@@ -40,7 +40,7 @@ void main()
 	
 	cout << Var1 << Var2 << Var3 << Var4 << Var5;
 }
-1.3
+//1.3
 #include<iostream> 
 using namespace std;
 
@@ -58,7 +58,7 @@ void main()
 	
 	cout<<"Сумма = "<< Var1+Var2<<endl<<"Разница = "<< Var1-Var2<<endl<<"Произведение = " << Var1*Var2<<endl;
 }
-1.4
+//1.4
 #include<iostream> 
 using namespace std;
 
@@ -75,7 +75,7 @@ void main()
 	cin >> n;
 	cout << "Максимальное количество зайцев, которое гарантированно окажется в 1 клетке = " << (m + n - 1) / n << endl;
 }
-1.5
+//1.5
 #include<iostream> 
 using namespace std;
 
@@ -89,7 +89,7 @@ void main()
 	cin >> a;
 	cout << "Периметр квадрата = " << a * 4 << endl << "Площадь квадрата = " << a * a << endl;
 }
-1.6
+//1.6
 #include<iostream> 
 #include<cmath>
 using namespace std;
@@ -108,7 +108,7 @@ void main()
 
 	cout << "Гипотенуза = " << sqrt((a*a)+(b*b))  << endl;
 }
-1.7
+//1.7
 #include<iostream> 
 #include<cmath>
 using namespace std;
@@ -127,7 +127,7 @@ void main()
 
 	cout << "Каждому школьнику достанется яблок  " << K/N  << endl;
 }
-1.8
+//1.8
 #include<iostream> 
 #include<cmath>
 using namespace std;
@@ -143,7 +143,7 @@ void main()
 
 	cout << "Значение функции = " << x*x+3*x-100  << endl;
 }
-1.9
+//1.9
 #include<iostream> 
 using namespace std;
 
@@ -153,7 +153,7 @@ void main()
 
 	cout << "Захаров Александр БФБО-01-20";
 }
-1.10
+//1.10
 //Программа для решения квадратного уравнения
 #include<iostream> 
 #include<cmath>
@@ -173,7 +173,7 @@ void main()
 
 	cout << "D = " << b * b - 4 * a * c << endl << "x1 = " << -b + sqrt(D) << endl << "x2 = " << -b - sqrt(D); 
 }
-1.11
+//1.11
 #include<iostream> 
 #include<cmath>
 using namespace std;
@@ -188,7 +188,7 @@ void main()
 	
 	 
 }
-1.12
+//1.12
 #include<iostream> 
 using namespace std;
 
