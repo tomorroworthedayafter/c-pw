@@ -371,7 +371,7 @@ void main()
             else if (b[maxn][maxm] < b[maxn][j])
                 b[maxn][maxm] = b[maxn][j];
         }
-        cout << "Сумма = " << i + 1 << "строки = " << sum << endl;
+        cout << "Сумма = " << i + 1 << "Строки = " << sum << endl;
         if (maxsum < sum) {
             maxsum = sum;
         }
